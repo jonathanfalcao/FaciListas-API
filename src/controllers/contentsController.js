@@ -18,7 +18,6 @@ class contentsController {
     const conteudo = {
       titulo: req.body.titulo,
       descricao: req.body.descricao,
-      porcentagem: req.body.porcentagem
     }
 
     const result = await ContentsDAO.inserir(conteudo)
@@ -44,7 +43,6 @@ class contentsController {
     const conteudo = {
       titulo: req.body.titulo,
       descricao: req.body.descricao,
-      porcentagem: req.body.porcentagem
     }
 
     const result = await ContentsDAO.atualizar(req.params.id, conteudo)

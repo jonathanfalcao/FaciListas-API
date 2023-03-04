@@ -8,8 +8,7 @@
   CREATE TABLE IF NOT EXISTS "conteudos" (
       "ID" INTEGER PRIMARY KEY AUTOINCREMENT,
       "TITULO" varchar(64),
-      "DESCRICAO" varchar(64),
-      "PORCENTAGEM" INTEGER
+      "DESCRICAO" varchar(64)
     );`;
 
   function createTableContents() {
