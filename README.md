@@ -5,7 +5,7 @@ sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável).
 Para isso construímos um app (front e back-end) desenvolvendo um site para apresentar e que vai implementar as
 funcionalidades básicas do CRUD.
 
-📍 ## Passos da construção da API
+## Passos da construção da API 📍
 
 ### 1. Inicialização
         
