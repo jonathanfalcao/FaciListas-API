@@ -1,4 +1,4 @@
-# Projeto resília: FaciListas (Case - Final)
+# Projeto Final resília: FaciListas
  
 📋 O projeto consiste em montar um MVP para a empresa testar o seu novo app (MVP é a
 sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável).
