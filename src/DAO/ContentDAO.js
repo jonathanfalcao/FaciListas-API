@@ -15,9 +15,9 @@ class ContentsDAO {
     }
 
     static inserir(conteudo) {
-        const query = 'INSERT INTO conteudos (titulo, descricao) VALUES (?, ?)';
+        const query = 'INSERT INTO conteudos (titulo, descricao, checked) VALUES (?, ?, ?)';
         return new Promise((resolve, reject) => {
-            db.run(query, [conteudo.titulo, conteudo.descricao], function (err) {
+            db.run(query, [conteudo.titulo, conteudo.descricao, conteudo.checked], function (err) {
                 if (err) {
                     reject({
                         mensagem: 'Erro ao inserir o conteúdo',
@@ -50,9 +50,9 @@ class ContentsDAO {
     }
 
     static atualizar(id, conteudo) {
-      const query = 'UPDATE conteudos SET titulo = ?, descricao = ? WHERE id = ?';
+      const query = 'UPDATE conteudos SET titulo = ?, descricao = ?, checked = ? WHERE id = ?';
       return new Promise((resolve, reject) => {
-          db.run(query, [conteudo.titulo, conteudo.descricao, id], (err) => {
+          db.run(query, [conteudo.titulo, conteudo.descricao, conteudo.checked, id], (err) => {
               if (err) {
                   reject({
                       mensagem: 'Erro ao atualizar o conteúdo',
