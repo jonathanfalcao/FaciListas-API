@@ -33,11 +33,11 @@ funcionalidades básicas do CRUD.
 
 • Criar uma pasta chamada DAO com um arquivo contentsDAO.js que será responsável por realizar as ações dos métodos dentro do banco do SQLite.  
 
-### 3. Fazendo rodar  o projeto
+### 3. Fazendo rodar  o projeto.
         
         npm start
          
-### 4. Adicionando informações no SQLite  
+### 4. Adicionando informações no SQLite.  
 
-• Utilizando a extensão "Thunder Cliente" do VSCode foi possível adicionar novos atributos através do método POST
+• Utilizando a extensão "Thunder Cliente" do VSCode foi possível adicionar novos atributos através do método POST.
          
