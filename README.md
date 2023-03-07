@@ -39,5 +39,5 @@ funcionalidades básicas do CRUD.
          
 ### 4. Adicionando informações no SQLite  
 
-• Utilizando a extensão "Thunder Cliente" do VSCode foi possível adicionar novos atributos através do método POST.
+• Utilizando a extensão "Thunder Cliente" do VSCode foi possível adicionar novos atributos através do método POST
          
