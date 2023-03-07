@@ -33,7 +33,7 @@ funcionalidades básicas do CRUD.
 
 • Criar uma pasta chamada DAO com um arquivo contentsDAO.js que será responsável por realizar as ações dos métodos dentro do banco do SQLite.  
 
-### 3. Fazendo rodar  
+### 3. Fazendo rodar  o projeto
         
         npm start
          
