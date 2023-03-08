@@ -45,7 +45,7 @@ funcionalidades básicas do CRUD.
  ## Método CREATE/POST  
  
  
-  <img alt="cssNode" src="">
+  <img alt="createPost" src="https://raw.githubusercontent.com/jonathanfalcao/FaciListas-API/main/img/createPost.jpeg">
   
 ---
   ## Método READ/GET  
