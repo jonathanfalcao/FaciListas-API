@@ -51,16 +51,16 @@ funcionalidades básicas do CRUD.
   ## Método READ/GET  
   
   
-  <img alt="cssNode" src="">   
+  <img alt="readGet" src="https://raw.githubusercontent.com/jonathanfalcao/FaciListas-API/main/img/readGet.jpg">   
   
 ---
  ## Método UPDATE/PUT   
  
  
-  <img alt="cssNode" src="">
+  <img alt="updatePut" src="https://raw.githubusercontent.com/jonathanfalcao/FaciListas-API/main/img/updatePut.jpg">
   
 ---
   ## Método DELETE  
   
   
-  <img alt="cssNode" src="">
+  <img alt="delete" src="https://raw.githubusercontent.com/jonathanfalcao/FaciListas-API/main/img/delete.jpg">
