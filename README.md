@@ -1,4 +1,4 @@
-# Projeto final resília: FaciListas
+# Projeto M5 resília: FaciListas  (Final)
  
 📋 O projeto consiste em montar um MVP para a empresa testar o seu novo app (MVP é a
 sigla em inglês para Minimum Viable Product – ou Produto Mínimo Viável).
@@ -41,3 +41,26 @@ funcionalidades básicas do CRUD.
 
 • Utilizando a extensão "Thunder Cliente" do VSCode foi possível adicionar novos atributos através do método POST.
          
+---
+ ## Método CREATE/POST  
+ 
+ 
+  <img alt="cssNode" src="">
+  
+---
+  ## Método READ/GET  
+  
+  
+  <img alt="cssNode" src="">   
+  
+---
+ ## Método UPDATE/PUT   
+ 
+ 
+  <img alt="cssNode" src="">
+  
+---
+  ## Método DELETE  
+  
+  
+  <img alt="cssNode" src="">
